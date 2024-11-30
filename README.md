@@ -148,15 +148,6 @@ This is a Flutter-based **E-Commerce App** that uses an **E-Commerce API** for f
    flutter run
    ```  
 
----
-
-## 🔗 GitHub Repository  
-[🌐 GitHub - Flutter E-Commerce App](#)
-
---- 
-
-Would you like further assistance in setting up the repository or refining this description? 😊
-
 <p>
   
 
